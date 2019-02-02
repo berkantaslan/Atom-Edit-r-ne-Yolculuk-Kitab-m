@@ -1,4 +1,4 @@
-# Atom Editörüne Yolculuk Kitabım
+# Atom Editörüne Yolculuk e-Kitabım
 Her kısmı özelleştirilebilir olan Atom Editörü hakkında birçok bilgiye ulaşabileceğiniz Atom Editörüne Yolculuk kitabım yayınlandı! Tamamen Türkçe..
 
 Türkçe kaynak sorununa çözüm olabilmesi için yapmış olduğum çalışmalar sonunda ilk meyvesini verdi. Her kısmı özelleştirilebilir olan Atom Editörünü kullanmanızı tavsiye ederim. Kitabımda her açıdan incelediğim Atom Editörü konusunda birçok bilgi bulabileceksiniz.
